@@ -14,7 +14,7 @@
 <?php
     include "templates/". $request_page_name .".php";
 ?>
-<script src="assets/js/common.js"></script>
+<script src="assets/js/lib/jquery-3.3.1.min.js"></script>
 <script src="assets/js/lib/materialize.min.js"></script>
 <script src="assets/js/<?php echo $request_page_name;?>.js"></script>
 </body>
