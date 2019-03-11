@@ -1,10 +1,10 @@
 .bh-theme {
-    background-color: #6A1B9A !important;
+    background-color: #37214b !important;
     color: #ffffff;
 }
 
 .bh-btn-color {
-    color: #6A1B9A !important;
+    color: #37214b !important;
 }
 
 .bh-box-wrapper {
@@ -17,7 +17,7 @@ input.bh-input-shadow {
 }
 
 input.bh-input-round {
-    color: #6c4a9a !important;
+    color: #37214b !important;
     border-radius: 3px !important;
     padding: 2px 4px!important;
     font-size: 22px !important;
@@ -52,7 +52,34 @@ input.bh-input-round {
     -ms-flex-pack: center;
     justify-content: center;
     max-width: 100%;
-    position: fixed;
+    width: 100%;
+    z-index: 75;
+    height: 100%;
+    top: 0;
+}
+
+.bh-start-center {
+    -webkit-align-items: center;
+    -webkit-align-content: center;
+    -webkit-box-align: center;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-line-pack: center;
+    align-content: end;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: start;
+    max-width: 100%;
     width: 100%;
     z-index: 75;
     height: 100%;

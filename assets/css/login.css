@@ -7,3 +7,9 @@ input[type=number]::-webkit-outer-spin-button {
 input#idNumber {
     width: 200px;
 }
+
+div.bh-login-logo-container>img {
+    width: 315px;
+    margin-bottom: 80px;
+    margin-top: -105px;
+}
