@@ -1,0 +1,18 @@
+img.materialboxed {margin: auto;background-color: #37214b;border-radius: 50%;width: 150px;height: 150px;border-color: #673AB7;border-style: solid;border-width: 5px;}
+
+button.waves-effect.waves-light.btn-large.bh-vote-now {
+    margin: auto;
+}
+
+.card-panel.white.bh-thank-you {
+    text-align: center;
+    padding: 45px;
+}
+
+h2 {
+    color: #595656;
+}
+
+h3 {
+    color: black;
+}

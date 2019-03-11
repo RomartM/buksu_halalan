@@ -1,0 +1,86 @@
+nav {
+    background-color: #2e2e2e !important;
+    height: 120px !important;
+    margin-bottom: 45px !important;
+
+}
+
+img.materialboxed.brand-logo.user-profile {
+    position: unset !important;
+    background-color: white;
+    border-radius: 50%;
+    margin: 10px;
+    border-style: solid;
+    border-color: #aa4cff;
+}
+
+.nav-wrapper {
+    display: flex;
+}
+
+.bh-user-brief-info {
+    margin-left: 4px;
+    display: flex;
+    flex-direction: column;
+}
+
+span.bh-name {
+    font-size: 25px;
+    margin-top: 2px;
+    margin-left: 6px;
+}
+
+span.bh-id-number {
+    font-size: 16px;
+    margin-top: -32px;
+    margin-left: 8px;
+}
+
+span.bh-id-college {
+    margin-top: -35px;
+    margin-left: 9px;
+}
+
+.right.brand-logo {
+    margin-top: 36px;
+    margin-right: 10px;
+}
+
+.bh-candidate .card-image {
+    background-color: #37214b;
+    width:200px;
+}
+
+.card.bh-candidate {
+    max-width: 200px;
+}
+
+.card-title {
+    font-size: 15px !important;
+}
+
+.card-content {
+    padding: 12px !important;
+}
+
+/* Responsive */
+
+@media (max-width: 1333px) {
+    div.card-panel.bh-user-vote {
+        max-width: 80%;
+    }
+}
+
+
+@media (max-width: 1059px) {
+    div.card-panel.bh-user-vote {
+        max-width: 90%;
+    }
+}
+
+
+@media (max-width: 960px) {
+    div.card-panel.bh-user-vote {
+        max-width: 90%;
+    }
+}

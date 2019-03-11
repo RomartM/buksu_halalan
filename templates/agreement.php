@@ -17,7 +17,6 @@
                     <h4 class="bh-agreement-title">Agreement</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt sagittis nunc, et ullamcorper justo varius ac. Proin tincidunt venenatis elit, in gravida turpis scelerisque eget. Mauris consequat augue sit amet consectetur dignissim. Nullam non ante eget dolor semper dictum at ac felis. Duis molestie id tortor sit amet viverra. Aliquam iaculis dui erat, vitae posuere erat pharetra id. Sed pellentesque tempor nibh et eleifend. Praesent congue, libero vitae bibendum faucibus, urna libero suscipit enim, in fermentum sem ligula ac nisi. Suspendisse sit amet imperdiet lacus.</p>
                     <br/>
-                    <p>Vivamus condimentum, orci efficitur efficitur malesuada, sapien ligula mattis mauris, sodales facilisis diam nulla sit amet nunc. Donec quis pellentesque ante, vel mollis est. Integer lacinia hendrerit lectus quis consectetur. Nam semper scelerisque neque, ac pellentesque lectus. Ut euismod congue mauris vel tincidunt.</p>
                 </div>
                 <div class="col s12 bh-affirmative">
                     <p>
