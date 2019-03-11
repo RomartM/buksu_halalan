@@ -7,6 +7,6 @@
  */
 
 if ($_SERVER["REQUEST_METHOD"]=="GET"){
-    $request_page = $_GET["page"];
-    include "frontend/templates/". $request_page .".php";
+  $request_page = $_GET["page"];
+  include "templates/". $request_page .".php";
 }
