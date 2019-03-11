@@ -1,6 +1,6 @@
 <?php
     if ($_SERVER["REQUEST_METHOD"]=="GET"){
-    $request_page = $_GET["page"];
+        $request_page = $_GET["page"];
 ?>
 <html lang="en" >
 <head>
@@ -11,9 +11,10 @@
 <body>
 <?php
     include "templates/". $request_page .".php";
-}
 ?>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/<?php echo $request_page;?>.js"></script>
 </body>
 </html>
-
+<?php } ?>
 
