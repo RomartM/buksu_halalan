@@ -1,17 +1,14 @@
 <div class="bh-no-select bh-center-center">
-    <div style="position:fixed;text-align: center;width:150px;">
+    <div class="bh-box-wrapper">
         <div class="bh-card">
             <div class="bh-login-logo-container">
                 <img src="">
             </div>
             <div class="bh-login-content-container">
                 <div class="input-field col s12">
-                    <input id="password" type="password" class="validate">
-                    <label for="password">ID Number</label>
+                    <input id="idNumber" type="number" class="validate white-text white bh-input-round" placeholder="ID Number">
                 </div>
-                <button class="btn waves-effect waves-light" type="submit" name="action">Log In
-                    <i class="material-icons right">send</i>
-                </button>
+                <button id="submitBtn" class="waves-effect waves-light btn" type="submit" name="action">Log In</button>
             </div>
         </div>
     </div>

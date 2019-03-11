@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="assets/css/common.css">
     <link rel="stylesheet" href="assets/css/<?php echo $request_page_name;?>.css">
     <link rel="stylesheet" href="assets/css/lib/materialize.min.css">
+    <link rel="stylesheet" href="assets/icon/icon.css">
 </head>
 <body class="bh-theme">
 <?php
