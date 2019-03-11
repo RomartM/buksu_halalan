@@ -9,6 +9,9 @@
                     <input id="password" type="password" class="validate">
                     <label for="password">ID Number</label>
                 </div>
+                <button class="btn waves-effect waves-light" type="submit" name="action">Log In
+                    <i class="material-icons right">send</i>
+                </button>
             </div>
         </div>
     </div>

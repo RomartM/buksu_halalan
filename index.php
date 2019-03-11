@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="assets/css/<?php echo $request_page_name;?>.css">
     <link rel="stylesheet" href="assets/css/lib/materialize.min.css">
 </head>
-<body>
+<body class="bh-theme">
 <?php
     include "templates/". $request_page_name .".php";
 ?>
