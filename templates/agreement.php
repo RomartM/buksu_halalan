@@ -6,9 +6,9 @@
                     <img class="materialboxed" width="250" src="assets/images/profile/default/man.png">
                 </div>
                 <div class="col s8">
-                    <p><span class="user-full-name">Juan Cruz</span></p>
-                    <p><span class="user-year-course">BS-IT 4 - Bachelor in Science of Information Technology</span></p>
-                    <p><span class="user-college">CAS - College of Arts in Sciences</span></p>
+                    <p><span class="bh-user-full-name">Juan Cruz</span></p>
+                    <p><span class="bh-user-year-course">BS-IT 4 - Bachelor in Science of Information Technology</span></p>
+                    <p><span class="bh-user-college">CAS - College of Arts in Sciences</span></p>
                 </div>
             </div>
             <div class="divider"></div>
@@ -22,13 +22,13 @@
                 <div class="col s12 bh-affirmative">
                     <p>
                         <label>
-                            <input type="checkbox" class="filled-in" checked="checked" />
+                            <input class="bh-agreement-checkbox" type="checkbox" class="filled-in"/>
                             <span>I agree</span>
                         </label>
                     </p>
                 </div>
                 <div class="col s12 bh-confirmation">
-                    <button class="waves-effect waves-light btn-large"><i class="material-icons left">cloud</i>button</button>
+                    <button class="waves-effect waves-light btn-large bh-vote-now">VOTE NOW!</button>
                 </div>
             </div>
         </div>

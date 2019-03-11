@@ -22,3 +22,33 @@ h4.bh-agreement-title {
     color: #555555;
     text-align: center;
 }
+
+div.bh-confirmation {
+    text-align: center;
+}
+
+button.bh-vote-now {
+    font-weight: bolder;
+}
+
+/* Responsive */
+
+@media (max-width: 1333px) {
+    div.card-panel.bh-user-agreement {
+        max-width: 80%;
+    }
+}
+
+
+@media (max-width: 1059px) {
+    div.card-panel.bh-user-agreement {
+        max-width: 90%;
+    }
+}
+
+
+@media (max-width: 960px) {
+    div.card-panel.bh-user-agreement {
+        max-width: 90%;
+    }
+}
