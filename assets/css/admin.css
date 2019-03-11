@@ -3,7 +3,7 @@ body {
 }
 
 .admin-sidebar {
-  background: #6a1b9a;
+  background: #36194b;
   height: 100%;
   width: 250px;
 }
@@ -14,5 +14,5 @@ body {
 }
 
 .admin-sidebar-logo img {
-  width: 100%;
+  width: 95%;
 }
