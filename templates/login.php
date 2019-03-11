@@ -2,7 +2,7 @@
     <div class="bh-box-wrapper">
         <div class="bh-card">
             <div class="bh-login-logo-container">
-                <img src="">
+                <img src="assets/images/COMELEC_LOGO_2.png">
             </div>
             <div class="bh-login-content-container">
                 <div class="input-field col s12">
